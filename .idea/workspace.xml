@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f58e91df-a8d7-41b7-bed7-7404c260c99d" name="Default Changelist" comment="" />
+    <list default="true" id="f58e91df-a8d7-41b7-bed7-7404c260c99d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ScalaNeat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ScalaNeat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongNN.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PongNN.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1994bdaa511040fc9a7b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1994bdaa511040fc9a7b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1994bdaa511040fc9a7b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c19f59636b068f8168b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c19f59636b068f8168b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c19f59636b068f8168b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87820cf3679785254cc2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87820cf3679785254cc2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87820cf3679785254cc2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94c153972fd5609a4486$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94c153972fd5609a4486.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94c153972fd5609a4486.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9e4de3657a6a53862c0d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9e4de3657a6a53862c0d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9e4de3657a6a53862c0d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +67,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -34,8 +81,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../GitHub/InVision" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -165,7 +213,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="scalaneat [file:/C:/Users/18606/Documents/programming-projects/programming-projects/ScalaNeat/]" />
+                <option name="name" value="scalaneat [file:/C:/Users/18606/Documents/GitHub/ScalaNeat/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -179,16 +227,15 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3205301030114" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3426930543" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
       </map>
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../../GitHub/ECC" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../GitHub/TRAC3R" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../simdemic" value="PREVIEW" />
+        <entry key="$USER_HOME$/GitHub/ECC" value="PREVIEW" />
+        <entry key="$USER_HOME$/GitHub/TRAC3R" value="PREVIEW" />
       </map>
     </option>
   </component>

@@ -3,3 +3,5 @@
 /PongNN.xml
 /XorNeuralNetwork.xml
 /target/
+/out/
+src/main/scala/META-INF/

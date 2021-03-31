@@ -5,13 +5,18 @@ import nintaco.api._
 
 import scala.annotation.tailrec
 import scala.collection.mutable.ArrayBuffer
+import scala.math.random
 import scala.util.Random
+import scala.util.Random.nextInt
 
 object Main {
   ApiSource.initRemoteAPI("localhost", 9999)
   private val api = ApiSource.getAPI
-  private var population = Population(10, api)
+  private var population = Population(20, api)
   private var startPressed = false
+  private var timeDelay=50
+ private val random=new Random
+
 
   def main(args: Array[String]): Unit = {
     launchNintaco()
@@ -20,12 +25,23 @@ object Main {
   val renderFinished: FrameListener = () => {
     if(api.peekCPU(0x000000) == 0x20) {
       api.writeGamepad(0, GamepadButtons.Start, true)
+
       if(!startPressed) {
-        startPressed = true
-        population = population.increment()
-        println("CURRENT NN IN GENERATION " + population.current)
+
+        if (timeDelay>0) {
+          println(f"timeDelay=$timeDelay")
+          timeDelay -= 1
+        } else {
+          startPressed = true
+          population = population.increment()
+          println("CURRENT NN IN GENERATION " + population.current)
+          timeDelay=random.nextInt(20)+5
+        }
+
+
       }
-    } else {
+      }
+     else {
       population.move()
       if(startPressed) {
         startPressed = false

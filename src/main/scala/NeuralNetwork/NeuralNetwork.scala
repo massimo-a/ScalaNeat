@@ -40,6 +40,7 @@ final case class NeuralNetwork
    */
   def out(neuron: Int, input: Vector[Double]): Double = {
     val g = genes.filter(x => x.to == neuron)
+    //println(g)
     var sum = 0.0
     for(e <- g) {
       sum += e.weight*out(e.from, input)
